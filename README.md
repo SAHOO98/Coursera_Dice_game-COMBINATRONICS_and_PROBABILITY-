@@ -1,5 +1,5 @@
 # Coursera_Dice_game-COMBINATRONICS_and_PROBABILITY-
-Its the 6th assignemnt(final) of coursera course COMBINATRONICS_and_PROBABILITY. 
+Simulation of dice game explained below. For the course visit [here](https://www.coursera.org/learn/combinatorics). This program helps us to choose the best outcome.  
 ## The Question is as follows:
 ### Question Preview
 In this series of three programming tasks, we will implement together a program that will play optimally in a tricky dice game! You program will be given a list of dices and will decide who chooses the dice first (you or your opponent).
